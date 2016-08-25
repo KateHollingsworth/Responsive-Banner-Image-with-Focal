@@ -1,0 +1,23 @@
+/* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}*/
+
+.img-containerlong {
+  min-height: 400px;
+  background-image: url(http://kateandchristian.love/wp-content/uploads/2016/08/cropped-2015_12_30_sarah_tim-396.jpg);
+  background-repeat: no-repeat;
+  background-position: 30% 50%; /* Moves the image and recenters it to focus on the left side */
+  padding: 10px;
+}
+
+.img-containerlong p {
+  text-align: right;
+  vertical-align: text-bottom;
+  font-family: "Times New Roman", Times, serif;
+  color: #ffffff;
+  font-size: 6vw;
+  padding-top: 300px;
+  padding-right: 50%;
+}
